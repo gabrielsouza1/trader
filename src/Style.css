@@ -1,0 +1,21 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width:100%;
+	display: flex;
+}
+.info{
+	width: 35%;
+	padding: 40px;
+}
+.info h1{
+	font-size: 3em;
+}
+.img-container{
+	width: 45%;
+}
+.img-container img{
+	width: 100%;
+}
